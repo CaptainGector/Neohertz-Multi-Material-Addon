@@ -1,4 +1,4 @@
-# NeohertzMMU
+# A Rotary Multi-Material Addon for Your 3D Printer
 A WIP Multi-Material Upgrade designed to be simpler, easier to build, and more reliable.
 
 **The sell**: Have you SEEN how much work it is to assemble the linear MMUs? Have you _seen_ the mess of filament they spit out backwards? And their solution to the spagetti is to build _yet another_ complicated mechanism to keep the slack filament under control! What if there was an easier way? What if there was a sleek, straightforward, compact, easy to assembly, easy to maintain, no-nonsense multi-material addon for any 3d printer? The printer never stops, all the firmware is extremely straightforward, the tolerances are low, the electronics are simple, it can easily be mounted in a small space, the bill of materials is shorter and cheaper, it's easier to manufacture out of metal, what more could you want? 
