@@ -8,7 +8,7 @@ A filament strand only engages with the feed gear when the cam bearing allows th
 
 The two actuators are mounted on a frame capable of rotating around the filament pathways. Or, the actuators could be held in place and the filament runs could be rotated. I think wire management will be easier than managing the filament wrapping around itself. I don't think going around 360+ degrees is a good idea, the wires would wrap up, it should be limited to only rotate once, ~350degrees. 
 
-![Mockup Image](IMG_Mockup.png)
+![Mockup Image](Images/Prototype_1.png)
 
 ## Notes & Planning
 
